@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c5dd3d0a6aaf143c38cd651cb4671966, type: 3}
+  m_Name: Bee
+  m_EditorClassIdentifier: 
+  unitName: Mutant Bee
+  baseHP: 50
+  maxHP: 50
+  currentHP: 50
+  unitPrefab: {fileID: 8985136589977034574, guid: 93fe5541245eb480a894a45e5cff5ff4, type: 3}
+  inventory: {fileID: 11400000, guid: 094f0a45942924ba2b6a83c4051fc9e6, type: 2}

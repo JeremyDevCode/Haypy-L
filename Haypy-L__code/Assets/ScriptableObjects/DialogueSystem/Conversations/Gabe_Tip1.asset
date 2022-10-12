@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e13e01f58019a4b14b8aab03af3f6763, type: 3}
+  m_Name: Gabe&Tip1
+  m_EditorClassIdentifier: 
+  leftCharacter: {fileID: 11400000, guid: bc4e513d32e4440619ddf9d95c622354, type: 2}
+  rightCharacter: {fileID: 11400000, guid: e75b7b4ed9eab49a9a2fb728042ea0d5, type: 2}
+  sentences:
+  - character: {fileID: 11400000, guid: e75b7b4ed9eab49a9a2fb728042ea0d5, type: 2}
+    text: Hola de nuevo veo que pudiste pasar la primera fase
+  - character: {fileID: 11400000, guid: e75b7b4ed9eab49a9a2fb728042ea0d5, type: 2}
+    text: Pues esta vez no sera tan sencillo preparate para respuestas mas dificiles
+  - character: {fileID: 11400000, guid: e75b7b4ed9eab49a9a2fb728042ea0d5, type: 2}
+    text: Para la nueva etapa sube a la parte derecha del mapa una vez completa busca
+      la entrada hacia la siguiente etapa, suerte

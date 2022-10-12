@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c5dd3d0a6aaf143c38cd651cb4671966, type: 3}
+  m_Name: Player
+  m_EditorClassIdentifier: 
+  unitName: Gabe
+  baseHP: 100
+  maxHP: 100
+  currentHP: 100
+  unitPrefab: {fileID: 5310100183691524894, guid: d3eb3222b7a294227bfee1c3fadf00eb, type: 3}
+  inventory: {fileID: 11400000, guid: 6fb206545444448df8d0c7123cd2c7f8, type: 2}
